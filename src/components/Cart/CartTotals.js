@@ -32,6 +32,7 @@ export default function CartTotals({value}) {
           </span>
           <strong>$ {cartTotal}</strong>
          </h5>
+         
         </div>
       </div>
      </div>
